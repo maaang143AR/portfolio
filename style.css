@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    
+    width: 90vw;
+    margin: 17px 34px;
+}
+
+nav ul li{
+    
+    list-style-type: none;
+    display: inline-block;
+    padding: 16px 60px;
+        
+}
+.port{
+    font-size: x-large;
+}
+sub{
+    color: red;
+}
+.align2{
+    padding: 0px 85px;
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+a:hover{
+    color: red;
+}
+body{
+    background-image: url("last.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    margin: 230px 0px;
+    
+    
+}
+h1{
+    font-size: 60px;
+}
+.btn{
+    margin: 6px 10px;
+    padding: 9px 30px;
+
+}
